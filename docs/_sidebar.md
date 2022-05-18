@@ -1,7 +1,6 @@
 - [Introduction](README.md)
 - [Data Summary](guides/datasummary.md)
 - [Data Classification](guides/dataclassification.md)
-- [Label Reuse(temp page)](guides/labelreuse.md)
 - Data
   - [Alert](guides/alerts.md)
   - [Assessment & questionaries](guides/assessments.md)

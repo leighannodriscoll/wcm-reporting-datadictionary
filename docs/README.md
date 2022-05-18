@@ -1,14 +1,11 @@
 # Watson Care Manager Reporting
-Watson Care Manager Reporting is a solution allowing clients to view their WCM transactional data.  
 
-WCM Reporting now introduces a Bring-Your-Own-Tool (BYOT) approach allowing clients use their local Business Intelligence (BI) tooling.   
+IBM Watson® Care Manager supports human-centered contact tracing through structured interviews and provides care teams a platform for supporting the holistic needs of individuals affected by COVID-19 and beyond. Bridge the gap between health and social needs, collaborate across departments and jurisdictions, and automate care management workflows to support ongoing care.
 
-Main use cases for Cognos are the creation of curated content typically in the form of Reports or Dashboards, or to support self-service reporting using your offering’s data model within Cognos or a combination of both.
+Watson Care Manager is a rapidly deployable, HIPAA-enabled, and cloud-based SaaS solution that connects stakeholders and supports coordination and delivery of services
 
-WCM Reporting provides a small set of curated reports and dashboards, the primary use case for WCM Reporting is to support self service reporting through a WCM data model within Cognos.
+Watson Care Manager Reporting is a solution allowing clients to view their WCM transactional data.  WCM Reporting now introduces a Bring-Your-Own-Tool (BYOT) approach allowing clients use their local Business Intelligence (BI) tooling.   
 
-## Getting Started
-In this section show how to download a copy of the code base and how to perform a basic build of your environment.
+Main use cases for WCM Reporting BYOT are the creation of curated content typically in the form of Reports or Dashboards, or to support self-service reporting using your local business intelligence tooling or by copying data locally to report against.
 
-Example of the SPM Kubernetes public facting cookbook 
-[https://ibm.github.io/spm-kubernetes/architecture/arch-overview/architecture-overview/](https://ibm.github.io/spm-kubernetes/architecture/arch-overview/architecture-overview/)
+The IBM Watson® Care Manager Reporting application is built on IBM® DB2® Warehouse. For more information on IBM Db2 Warehouse, see the IBM documentation.
